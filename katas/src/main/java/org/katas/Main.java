@@ -6,6 +6,6 @@ public class Main {
     public static void main(String[] args) {
         Kata1.main();
         Kata2.main();
-
+        Kata3.main();
     }
 }

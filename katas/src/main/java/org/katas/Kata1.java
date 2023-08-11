@@ -26,24 +26,25 @@ import java.util.Comparator;
 //* 'L', [1, 4, 5, 3, 5 ]  ->  [5, 5, 4, 3, 1]
 public class Kata1 {
     public static void main() {
+        System.out.println("Kata 1");
         int[] result1 = Kata1.flip('R', new int[]{ 3,2,1,2 });
         int[] result2 =  Kata1.flip('L', new int[]{ 1,4,5,3,5 });
 
         System.out.println(Arrays.toString(result1));
         System.out.println(Arrays.toString(result2));
-
+        System.out.println("----------------------");
     }
     public static int[] flip(char dir, int[] arr) {
         switch (dir) {
             case 'R' -> Arrays.sort(arr);
-            case 'L' -> {
-                arr = Arrays.stream(arr)
+            case 'L' -> arr = Arrays.stream(arr)
                         .boxed()
                         .sorted(Comparator.reverseOrder())
                         .mapToInt(Integer::intValue)
                         .toArray();
-            }
+
         }
         return arr;
     }
+
 }
