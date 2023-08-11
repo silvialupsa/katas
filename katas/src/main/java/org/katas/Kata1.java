@@ -2,10 +2,7 @@ package org.katas;
 
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Comparator;
-import java.util.List;
-import java.util.stream.Collectors;
 
 //todo:If you've completed this kata already and want a bigger challenge, here's the 3D version
 //
@@ -28,6 +25,14 @@ import java.util.stream.Collectors;
 //* 'R', [3, 2, 1, 2]      ->  [1, 2, 2, 3]
 //* 'L', [1, 4, 5, 3, 5 ]  ->  [5, 5, 4, 3, 1]
 public class Kata1 {
+    public static void main() {
+        int[] result1 = Kata1.flip('R', new int[]{ 3,2,1,2 });
+        int[] result2 =  Kata1.flip('L', new int[]{ 1,4,5,3,5 });
+
+        System.out.println(Arrays.toString(result1));
+        System.out.println(Arrays.toString(result2));
+
+    }
     public static int[] flip(char dir, int[] arr) {
         switch (dir) {
             case 'R' -> Arrays.sort(arr);
