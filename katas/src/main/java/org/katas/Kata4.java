@@ -17,7 +17,6 @@ public class Kata4 {
         return Arrays.stream(games).mapToInt(el -> {
             int score1 = Integer.parseInt(el.split(":")[0]);
             int score2 = Integer.parseInt(el.split(":")[1]);
-
             return score1 > score2 ? 3 : score1 == score2 ? 1 : 0;
         }).sum();
     }
