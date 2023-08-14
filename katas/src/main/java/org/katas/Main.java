@@ -8,6 +8,7 @@ public class Main {
 //        Kata2.main();
 //        Kata3.main();
 //        Kata4.main();
-        Kata5.main();
+//        Kata5.main();
+            Kata6.main();
     }
 }
