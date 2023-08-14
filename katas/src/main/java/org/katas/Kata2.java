@@ -20,7 +20,6 @@ public class Kata2 {
     }
 
     public static int quarterOf(int month) {
-        double nume = (double) month/3;
-        return (int) Math.ceil(nume);
+        return (int) Math.ceil((double) month/3);
     }
 }
