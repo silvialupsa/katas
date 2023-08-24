@@ -7,7 +7,7 @@ package org.katas;
 //Constraint:
 //
 //1 <= month <= 12
-public class Kata2 {
+public class QuarterOfTheYear_2 {
     public static void main() {
         System.out.println("Kata 2");
         int result1Kata2 = quarterOf(8);

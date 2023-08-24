@@ -9,7 +9,7 @@ import java.util.Arrays;
 //        width of the pillar (10 - 50 centimeters).
 //        Calculate the distance between the first and the last pillar in centimeters (without the width of the first and last pillar).
 
-public class Kata4 {
+public class TrainingOnTotalAmountOfPoints_4 {
     public static void main() {
         System.out.println("Kata 4");
         System.out.println(points(new String[]

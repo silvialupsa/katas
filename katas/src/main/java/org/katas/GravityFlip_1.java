@@ -24,11 +24,11 @@ import java.util.Comparator;
 //Examples (input -> output:
 //* 'R', [3, 2, 1, 2]      ->  [1, 2, 2, 3]
 //* 'L', [1, 4, 5, 3, 5 ]  ->  [5, 5, 4, 3, 1]
-public class Kata1 {
+public class GravityFlip_1 {
     public static void main() {
         System.out.println("Kata 1");
-        int[] result1 = Kata1.flip('R', new int[]{ 3,2,1,2 });
-        int[] result2 =  Kata1.flip('L', new int[]{ 1,4,5,3,5 });
+        int[] result1 = GravityFlip_1.flip('R', new int[]{ 3,2,1,2 });
+        int[] result2 =  GravityFlip_1.flip('L', new int[]{ 1,4,5,3,5 });
 
         System.out.println(Arrays.toString(result1));
         System.out.println(Arrays.toString(result2));

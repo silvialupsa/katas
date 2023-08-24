@@ -2,7 +2,6 @@ package org.katas;
 
 
 import java.util.Arrays;
-import java.util.Comparator;
 
 //todo:Wolves have been reintroduced to Great Britain. You are a sheep farmer, and are now plagued by wolves which pretend to be sheep. Fortunately, you are good at spotting them.
 
@@ -20,7 +19,7 @@ import java.util.Comparator;
 //
 //        Input: ["sheep", "sheep", "wolf"]
 //        Output: "Pls go away and stop eating my sheep"
-public class Kata3 {
+public class AWolfInSheepSClothing_3 {
     public static void main() {
         System.out.println("Kata 3");
         warnTheSheep(new String[]{"sheep", "sheep", "sheep", "sheep", "sheep", "wolf", "sheep", "sheep"});

@@ -1,6 +1,6 @@
 package org.katas;
 
-public class Kata5 {
+public class Pillars_5 {
 
     public static void main() {
         System.out.println("Kata 4");

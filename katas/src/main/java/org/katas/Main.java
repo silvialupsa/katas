@@ -1,7 +1,5 @@
 package org.katas;
 
-import org.katas.Kata1;
-
 public class Main {
     public static void main(String[] args) {
 //        Kata1.main();
@@ -9,6 +7,7 @@ public class Main {
 //        Kata3.main();
 //        Kata4.main();
 //        Kata5.main();
-            Kata6.main();
+//            TwiceAsOld_6.main();
+        SumOfDifferencesArray_7.main();
     }
 }
