@@ -8,6 +8,7 @@ public class Main {
 //        Kata4.main();
 //        Kata5.main();
 //            TwiceAsOld_6.main();
-        SumOfDifferencesArray_7.main();
+//        SumOfDifferencesArray_7.main();
+        EasyLogs_8.main();
     }
 }
