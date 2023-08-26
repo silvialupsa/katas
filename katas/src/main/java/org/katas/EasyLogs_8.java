@@ -12,6 +12,4 @@ public class EasyLogs_8 {
         // TODO add implementation
         return Math.log(a) / Math.log(x) + Math.log(b) / Math.log(x);
     }
-
-
 }
