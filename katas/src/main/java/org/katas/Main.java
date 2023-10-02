@@ -12,6 +12,7 @@ public class Main {
 //        EasyLogs_8.main();
 //        EqualSidesOfAnArray_11.main();
 //        WhatsANameIn_12.main();
-        FindTheForceOfGravity_14.main();
+//        FindTheForceOfGravity_14.main();
+        ExpressionsMatter_15.main();
     }
 }
