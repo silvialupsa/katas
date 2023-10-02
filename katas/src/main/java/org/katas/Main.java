@@ -9,6 +9,9 @@ public class Main {
 //        Kata5.main();
 //            TwiceAsOld_6.main();
 //        SumOfDifferencesArray_7.main();
-        EasyLogs_8.main();
+//        EasyLogs_8.main();
+//        EqualSidesOfAnArray_11.main();
+//        WhatsANameIn_12.main();
+        FindTheForceOfGravity_14.main();
     }
 }

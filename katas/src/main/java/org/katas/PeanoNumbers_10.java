@@ -6,7 +6,7 @@ package org.katas;
  *
  * please delete this comment when submit
  */
-public final class PeanoNumbers {
+public final class PeanoNumbers_10 {
     interface Peano {
         final class Zero implements Peano {
             static Zero INSTANCE = new Zero();
