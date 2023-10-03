@@ -17,6 +17,7 @@ public class Main {
 //        TheFeastOfManyBeasts_16.main();
 //        FindNearestSquareNumber_17.main();
 //        FromAtoZ_18.main();
-        ClosingInSum_19.main();
+//        ClosingInSum_19.main();
+        PlusMinusPlusPlus_20.main();
     }
 }
