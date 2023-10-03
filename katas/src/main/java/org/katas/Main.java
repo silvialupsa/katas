@@ -14,6 +14,7 @@ public class Main {
 //        WhatsANameIn_12.main();
 //        FindTheForceOfGravity_14.main();
 //        ExpressionsMatter_15.main();
-        TheFeastOfManyBeasts_16.main();
+//        TheFeastOfManyBeasts_16.main();
+        FindNearestSquareNumber_17.main();
     }
 }
