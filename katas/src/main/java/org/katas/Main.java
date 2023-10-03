@@ -16,6 +16,7 @@ public class Main {
 //        ExpressionsMatter_15.main();
 //        TheFeastOfManyBeasts_16.main();
 //        FindNearestSquareNumber_17.main();
-        FromAtoZ_18.main();
+//        FromAtoZ_18.main();
+        ClosingInSum_19.main();
     }
 }
