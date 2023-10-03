@@ -9,7 +9,7 @@ package org.katas;
 //Help Johnny by writing a function, that takes the amount of handshakes and returns the minimal amount of people needed to perform these handshakes (a pair of farmers handshake only once).
 
 public class HandshakeProblem_9 {
-    public static void main(String[] args) {
+    public static void main() {
         System.out.println(GetParticipants(0));
         System.out.println(GetParticipants(3));
     }

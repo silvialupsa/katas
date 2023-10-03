@@ -18,6 +18,7 @@ public class Main {
 //        FindNearestSquareNumber_17.main();
 //        FromAtoZ_18.main();
 //        ClosingInSum_19.main();
-        PlusMinusPlusPlus_20.main();
+//        PlusMinusPlusPlus_20.main();
+        BuyingACar_21.main();
     }
 }
