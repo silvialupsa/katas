@@ -19,6 +19,7 @@ public class Main {
 //        FromAtoZ_18.main();
 //        ClosingInSum_19.main();
 //        PlusMinusPlusPlus_20.main();
-        BuyingACar_21.main();
+//        BuyingACar_21.main();
+        SeparateTheWheatFromTheChaff_22.main();
     }
 }
