@@ -25,6 +25,7 @@ public class Main {
 //            SplitStrings_24.main();
 //    TakeATenMinutesWalk_25.main();
 //        WhoLikesIt_26.main();
-        StopGninnipSMySdroW_27.main();
+//        StopGninnipSMySdroW_27.main();
+        FindOdd_28.main();
     }
 }
