@@ -23,6 +23,7 @@ public class Main {
 //        SeparateTheWheatFromTheChaff_22.main();
 //        YourOrderPlease_23.main();
 //            SplitStrings_24.main();
-    TakeATenMinutesWalk_25.main();
+//    TakeATenMinutesWalk_25.main();
+        WhoLikesIt_26.main();
     }
 }

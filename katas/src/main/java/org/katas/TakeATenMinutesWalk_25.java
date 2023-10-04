@@ -23,6 +23,7 @@ public class TakeATenMinutesWalk_25 {
                 sumWE -= 1;
             }
         }
+
         return walk.length == 10 && sumNS == 0 && sumWE==0 ;
     }
 }
