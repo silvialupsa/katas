@@ -26,6 +26,7 @@ public class Main {
 //    TakeATenMinutesWalk_25.main();
 //        WhoLikesIt_26.main();
 //        StopGninnipSMySdroW_27.main();
-        FindOdd_28.main();
+//        FindOdd_28.main();
+        ArrayDiff_29.main();
     }
 }
