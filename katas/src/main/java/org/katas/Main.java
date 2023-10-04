@@ -21,6 +21,7 @@ public class Main {
 //        PlusMinusPlusPlus_20.main();
 //        BuyingACar_21.main();
 //        SeparateTheWheatFromTheChaff_22.main();
-        YourOrderPlease_23.main();
+//        YourOrderPlease_23.main();
+            SplitStrings_24.main();
     }
 }
