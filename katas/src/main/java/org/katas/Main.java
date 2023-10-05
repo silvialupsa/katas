@@ -30,6 +30,7 @@ public class Main {
 //        ArrayDiff_29.main();
 //        SumOfDigits_30.main();
 //        CreatePhoneNumber_31.main();
-        CountTheNumberOfDuplicates_32.main();
+//        CountTheNumberOfDuplicates_32.main();
+        DuplicateEncoder_33.main();
     }
 }
