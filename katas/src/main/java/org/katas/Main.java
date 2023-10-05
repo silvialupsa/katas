@@ -29,6 +29,7 @@ public class Main {
 //        FindOdd_28.main();
 //        ArrayDiff_29.main();
 //        SumOfDigits_30.main();
-        CreatePhoneNumber_31.main();
+//        CreatePhoneNumber_31.main();
+        CountTheNumberOfDuplicates_32.main();
     }
 }
