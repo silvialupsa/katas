@@ -28,6 +28,7 @@ public class Main {
 //        StopGninnipSMySdroW_27.main();
 //        FindOdd_28.main();
 //        ArrayDiff_29.main();
-        SumOfDigits_30.main();
+//        SumOfDigits_30.main();
+        CreatePhoneNumber_31.main();
     }
 }
