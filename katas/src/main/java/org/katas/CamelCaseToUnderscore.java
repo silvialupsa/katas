@@ -18,6 +18,8 @@ public class CamelCaseToUnderscore {
         System.out.println("name2: " + name2);
         String result = name2.replaceAll("([^_])([A-Z])", "$1_$2");
         System.out.println("result: " + result);
-        return result;
+        return name.replaceAll("([a-zA-Z])([0-9])", "$1_$2")
+                .replaceAll("([^_])([A-Z])", "$1_$2")
+                .replaceAll("([^_])([A-Z])", "$1_$2");
     }
 }
