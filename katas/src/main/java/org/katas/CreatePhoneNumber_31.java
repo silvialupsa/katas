@@ -15,6 +15,7 @@ public class CreatePhoneNumber_31 {
        String result = stringBuilder.toString();
        String phoneNumber = "(" + result.substring(0,3) +") " + result.substring(3,6) +"-"+result.substring(6,10) ;
         System.out.println(phoneNumber);
+
         return phoneNumber;
     }
 }
